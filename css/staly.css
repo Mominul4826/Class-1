@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+background-color:red;
+color: bisque;
+height: 100px;
+text-align: center;
+
+}
+.bannar{
+background-color: yellow;
+color:red;
+height: 400px;
+text-align: center;
+fornt size: 23;
+}
+.feature{
+    overflow: hidden;
+}
+.feature_one{
+background-color: blue;
+width: 50%;
+height: 300px;
+float: left;
+
+}
+.feature_two{
+width: 50%;
+height: 300px;
+background-color: darkmagenta;
+float:right;
+
+}
+.service{
+overflow: hidden;
+}
+.service_one{
+background-color: orangered;
+width: 33.3%;
+height: 200px;
+float: left;
+}
+.service_two{
+    background-color: hotpink;
+    width: 33.3%;
+    height: 200px;
+float: left;
+}
+.service_three{
+    background-color: darkgreen;
+    width: 33.3%;
+    height: 200px;
+   float:left;
+}
+.ads{
+overflow: hidden;
+
+}
+.loong_ads{
+    background-color: blue;
+    height: 50px;
+    float: left;
+    width: 70%;
+}
+.short_ads{
+background-color: brown;
+height: 50px;
+float: right;
+width: 30%;
+}
+.footer{
+background-color: khaki;
+height: 100px;
+width: 100;
+}
